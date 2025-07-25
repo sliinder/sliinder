@@ -44,8 +44,8 @@ I’m a **Software Engineer** and explorer of the digital cosmos, focusing on **
 
 ## 📧 **Connect with Me**:
 
-- **Discord**: [SLinder#0](https://discord.com/users/135326333449404416)
-- **Instagram**: [@SLinder](https://www.instagram.com/52hgi)
+- **Discord**: [@_e.v](https://discord.com/users/135326333449404416)
+- **Instagram**: [@52hgi](https://www.instagram.com/52hgi)
 
 ---
 
