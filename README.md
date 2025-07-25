@@ -46,7 +46,6 @@ I’m a **Software Engineer** and explorer of the digital cosmos, focusing on **
 
 - **Discord**: [SLinder#0](https://discord.com/users/135326333449404416)
 - **Instagram**: [@SLinder](https://www.instagram.com/52hgi)
-- **GitHub**: [SLinder](https://github.com/sliinder)
 
 ---
 
