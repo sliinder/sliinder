@@ -1,56 +1,110 @@
-# 🚀 **Hi, I'm Slinder** 👋
+# <div align="center">Hi, I'm SLinder 👋</div>
 
-Welcome to my space! 🌌  
-I’m a **Developer** and **Open-Source Enthusiast** on a mission to build innovative **Discord Bots**, **Full-Stack Websites**, and dive deep into the world of **AI technologies**. Explore my projects, and feel free to connect with me on my journey!
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;Discord+Bot+Developer)](https://git.io/typing-svg)
 
-## 🛠️ **Languages & Tools**
-
-### **Programming Languages**:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### **Frameworks & Libraries**:
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### **Tools & Platforms**:
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+  [![Profile Views](https://komarev.com/ghpvc/?username=sliinder&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sliinder)
+  [![GitHub Followers](https://img.shields.io/github/followers/sliinder?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/sliinder?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/sliinder?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/sliinder?tab=repositories)
+  
+</div>
 
 ---
 
-## 🚀 **About Me**
+## 🚀 About Me
 
-I’m a **Software Engineer** and explorer of the digital cosmos, focusing on **Web Development** and **Bot Development**.
+```typescript
+const SLinder = {
+  age: 16,
+  country: "Egypt",
+  role: "Front-End Developer",
+  languages: ["Arabic", "English"],
 
-- 🌟 I’ve crafted **Discord Bots** with interactive features, bringing life and engagement to communities.
-- 🚀 Passionate about building **Full-Stack Websites** that provide seamless, interactive experiences.
-- 🤖 Currently, I’m exploring the vast universe of **AI**, integrating it into my projects for smarter automation.
+  skills: [
+    "HTML",
+    "CSS",
+    "Python",
+    "JavaScript",
+    "React",
+    "Tailwind CSS",+
+    "Node.js"
+  ],
+
+  learning: [
+    "CSS Grid & Flexbox for modern layouts",
+    "JavaScript ES6+ and clean coding",
+    "Working with APIs and JSON",
+    "Building responsive and mobile-friendly designs",
+    "UI/UX best practices for real users",
+    "Making interactive web components"
+  ],
+
+  goals: [
+    "Create a professional portfolio website",
+    "Build real projects that solve problems",
+    "Improve design and user experience skills",
+    "Learn to integrate APIs in projects",
+    "Write clean and maintainable code",
+    "Prepare for internships and real job projects"
+  ]
+};
+```
 
 ---
 
-## 📧 **Connect with Me**:
+# <div align="center">Work with Me 🤝</div>
+<p align="center">
+  <a href="YOUR_FACEBOOK_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
-- **Discord**: [@_e.v](https://discord.com/users/135326333449404416)
-- **Instagram**: [@52hgi](https://www.instagram.com/52hgi)
+  <a href="YOUR_WHATSAPP_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="<https://discord.com/users/135326333449404416>" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📄 **License**
+</details>
 
-This repository is licensed under the [MIT License](LICENSE).
+<details open>
+<summary><h2>🧩 Highlights</h2></summary>
+
+- 🔥 Turning ideas into fun, clean, and stylish interfaces  
+- 🛠️ Always building something new… even if it's small  
+- 🤝 Learning from real projects, not just tutorials  
+- ⚡ Mixing creativity with code to create better user vibes  
+- 🔧 Trying different approaches until the code feels right
+
+</details>
 
 ---
+
+# <div align="center"> 🧰 Tech Toolbox</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,js,nodejs,react,tailwind,git" />
+</p>
+
+---
+
+<div align="center">
+
+  <h6>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    </picture>
+  </h6>
+
+---
+
+## ⚡ Motto
+
+> **“Learning by building — one project at a time.”**
