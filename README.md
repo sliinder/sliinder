@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;Discord+Bot+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;Java+Developer)](https://git.io/typing-svg)
 
   [![Profile Views](https://komarev.com/ghpvc/?username=sliinder&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sliinder)
   [![GitHub Followers](https://img.shields.io/github/followers/sliinder?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/sliinder?tab=followers)
