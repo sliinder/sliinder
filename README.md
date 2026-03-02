@@ -16,10 +16,6 @@
 
 ```typescript
 const SLinder = {
-  age: 16,
-  country: "Egypt",
-  role: "Front-End Developer",
-  languages: ["Arabic", "English"],
 
   skills: [
     "HTML",
