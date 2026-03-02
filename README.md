@@ -84,7 +84,7 @@ const SLinder = {
 # <div align="center"> 🧰 Tech Toolbox</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,js,nodejs,react,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,js,nodejs,java,react,tailwind,git" />
 </p>
 
 ---
